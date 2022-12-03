@@ -1,0 +1,33 @@
+form{
+    background-color: khaki;
+    
+    color: blue;
+}
+span{
+    color: black;
+}
+h2{
+    background-color:lightskyblue;
+    font-size: ;
+} 
+select{
+    position: relative;
+    left: 35px;
+}
+#email{
+    position: relative;
+    left: 23px;
+}
+#ten{   
+    position: relative;
+    left: 3px;
+}
+textarea{
+    position: relative;
+    left: 15px; 
+}
+button,#reset{
+    position: relative;
+    left: 60px; 
+}
+
